@@ -23,3 +23,4 @@ This Hotspot FW package includes:
 
 **For any other question** related to the product, the hardware performance or characteristics, the tools, the environment, you can submit it to the **ST Community** on the STM32 MCUs related [page](https://community.st.com/s/topic/0TO0X000000BSqSWAW/stm32-mcus).
 
+Check also [STM32 Hotspot](https://github.com/stm32-hotspot)  from STMicroelectronics
